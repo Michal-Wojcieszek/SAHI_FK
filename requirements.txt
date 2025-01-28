@@ -9,3 +9,4 @@ terminaltables
 requests
 click
 cv2
+globox
